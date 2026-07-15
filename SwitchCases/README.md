@@ -7,6 +7,12 @@ It contains a simple hardcoded string variable for "fruit" and three simple case
 I tried to include an array to make the project a little more interesting, but couldn't figure it out, so in a future commit I will
 return and add an array to this exercise.
 
+## How to Run
+
+This project has no external dependencies and is using `.NET Version 10.0.109`.
+
+To run, type `dotnet run` into your console inside of the the project folder.
+
 ## License
 
 Copyright © 2026 Kozachenk0

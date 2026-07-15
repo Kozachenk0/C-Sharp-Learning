@@ -56,6 +56,12 @@ if (product[2] == "S")
 
 Console.WriteLine($"Product: {size} {color} {type}");
 
+## How to Run
+
+This project has no external dependencies and is using `.NET Version 10.0.109`.
+
+To run, type `dotnet run` into your console inside of the the project folder.
+
 ## License
 
 Copyright © 2026 Kozachenk0

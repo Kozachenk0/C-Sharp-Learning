@@ -3,6 +3,12 @@
 A simple boolean coinflip project. It determines a pseudo-random number between 
 1 and 2, and then determines heads or tails based on that.
 
+## How to Run
+
+This project has no external dependencies and is using `.NET Version 10.0.109`.
+
+To run, type `dotnet run` into your console inside of the the project folder.
+
 ## Licensing
 
 This repository and all code belonging to it is licensed under the MIT License.

@@ -16,9 +16,15 @@ Here are the FizzBuzz rules that you need to implement in your code project:
     When the current value is divisible by both 3 and 5, print the term FizzBuzz next to the number.
 
 
-At first, I tried to use a switch case in the loop but ran into Compiler Error CS0029, so I stuck with doing if-elseif loops. I think in the future I will avoid making things like the operand variable, but
+At first, I tried to use a `switch` case in the loop but ran into `Compiler Error CS0029`, so I stuck with doing `if-elseif loops`. I think in the future I will avoid making things like the operand variable, but
 I'm trying to make my code modular so that you could replace the "operand" variable with anything you may want that isn't Fizz or Buzz. Although in this attempt I probably should have just hardcoded "Fizz"
 and "Buzz", I want to show everything in this repo, including my mistakes or oversights.
+
+## How to Run
+
+This project has no external dependencies and is using `.NET Version 10.0.109`.
+
+To run, type `dotnet run` into your console inside of the the project folder.
 
 ## License
 

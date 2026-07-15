@@ -7,7 +7,7 @@ A simple boolean coinflip project. It determines a pseudo-random number between
 
 This project has no external dependencies and is using `.NET Version 10.0.109`.
 
-To run, type `dotnet run` into your console inside of the the project folder.
+To run, type `dotnet run` into your console inside of the project folder.
 
 ## Licensing
 
